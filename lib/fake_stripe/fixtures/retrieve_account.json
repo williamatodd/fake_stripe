@@ -105,7 +105,7 @@
     "user_agent": null
   },
   "transfer_schedule": {"delay_days": 2, "interval": "daily"},
-  "transfers_enabled": true,
+  "payouts_enabled": true,
   "verification": {
     "disabled_reason": null,
     "due_by": null,
